@@ -650,13 +650,13 @@
 				TargetAttributes = {
 					654764B31AF267D100C68C2A = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H72GR44F4M;
+						DevelopmentTeam = 8VBY4GCZ7Q;
 						LastSwiftMigration = 0800;
 						TestTargetID = 65F44C1A1AF24B440093A3E9;
 					};
 					65F44C1A1AF24B440093A3E9 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H72GR44F4M;
+						DevelopmentTeam = 8VBY4GCZ7Q;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -670,7 +670,7 @@
 					};
 					65F44C431AF24B770093A3E9 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H72GR44F4M;
+						DevelopmentTeam = 8VBY4GCZ7Q;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -681,7 +681,7 @@
 					};
 					65F44C591AF24B8A0093A3E9 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H72GR44F4M;
+						DevelopmentTeam = 8VBY4GCZ7Q;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -692,7 +692,7 @@
 					};
 					65F44C681AF24B8A0093A3E9 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H72GR44F4M;
+						DevelopmentTeam = 8VBY4GCZ7Q;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
@@ -1062,7 +1062,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -1088,7 +1088,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -1204,7 +1204,7 @@
 				CODE_SIGN_ENTITLEMENTS = Gulps/Gulps.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1213,7 +1213,7 @@
 				INFOPLIST_FILE = Gulps/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = it.fancypixel.BigGulp;
+				PRODUCT_BUNDLE_IDENTIFIER = me.donguo.BigGulp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1229,8 +1229,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Gulps/Gulps.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1239,7 +1239,7 @@
 				INFOPLIST_FILE = Gulps/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = it.fancypixel.BigGulp;
+				PRODUCT_BUNDLE_IDENTIFIER = me.donguo.BigGulp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1255,7 +1255,7 @@
 				CODE_SIGN_ENTITLEMENTS = GulpsToday/GulpsToday.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1268,7 +1268,7 @@
 				INFOPLIST_FILE = GulpsToday/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "it.fancypixel.BigGulp.Gulps-Today";
+				PRODUCT_BUNDLE_IDENTIFIER = me.donguo.BigGulp.GulpsToday;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1285,7 +1285,7 @@
 				CODE_SIGN_ENTITLEMENTS = GulpsToday/GulpsToday.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1294,7 +1294,7 @@
 				INFOPLIST_FILE = GulpsToday/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "it.fancypixel.BigGulp.Gulps-Today";
+				PRODUCT_BUNDLE_IDENTIFIER = me.donguo.BigGulp.GulpsToday;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1310,7 +1310,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				ENABLE_BITCODE = NO;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -1318,7 +1318,7 @@
 				);
 				IBSC_MODULE = Gulps_WatchKit_Extension;
 				INFOPLIST_FILE = "Gulps WatchKit App/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = it.fancypixel.BigGulp.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = me.donguo.BigGulp.watchkit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1338,11 +1338,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				ENABLE_BITCODE = NO;
 				IBSC_MODULE = Gulps_WatchKit_Extension;
 				INFOPLIST_FILE = "Gulps WatchKit App/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = it.fancypixel.BigGulp.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = me.donguo.BigGulp.watchkit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1360,7 +1360,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1373,7 +1373,7 @@
 				INFOPLIST_FILE = "Gulps WatchKit Extension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = it.fancypixel.BigGulp.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = me.donguo.BigGulp.watchkit.extension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1391,7 +1391,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H72GR44F4M;
+				DEVELOPMENT_TEAM = 8VBY4GCZ7Q;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1400,7 +1400,7 @@
 				INFOPLIST_FILE = "Gulps WatchKit Extension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = it.fancypixel.BigGulp.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = me.donguo.BigGulp.watchkit.extension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
